@@ -16,6 +16,7 @@ console.log(horrorMovieGenerator("March", 23, 1992));
 - JavaScript
 - Node.js
 
-### *Have fun!
+### Have fun!
+![Alt Text](https://i.gifer.com/XOsa.gif)
 
 
